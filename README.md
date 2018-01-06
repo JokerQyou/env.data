@@ -19,6 +19,11 @@ The pipeline is as follows:
 # Why
 Well, why not?
 
+# Units
+
+- Temperature: Celsius;
+- Pressure: hPa, in which 1hPa equals 100Pa;
+
 # Caveats
 - My sensor board runs 24/7, but will be missing data points from time to time, these might be caused by (not limited to):
   - Power outage
