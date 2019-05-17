@@ -1,0 +1,4 @@
+Click==7.0
+loguru==0.2.5
+python-dotenv==0.10.2
+leancloud-sdk==1.13.0
